@@ -1,6 +1,6 @@
 # Medhat.tech
 
-[MEDHAT.TECH] (https://medhat.tech/)
+# [MEDHAT.TECH] (https://medhat.tech/)
 
 This is a Flutter cross platform app I developed for DMS course.
 
@@ -22,3 +22,11 @@ In this section, I added feedbacks from previous customers I worked with on prev
 
 - # CONTACT ME SECTION:
 In this section, I added a contact form for customers or companies to contact me. An e-mail is sent directly to me when a contact form is sent.
+
+# Preview of WebApp:
+
+https://user-images.githubusercontent.com/55616007/172064910-fcfe2195-edc7-43ef-842d-e1f48efcb62d.mp4
+
+# Preview of Mobile App:
+
+https://user-images.githubusercontent.com/55616007/172064938-9da84c77-d935-47f9-9628-b3b7c3916d4a.mp4
